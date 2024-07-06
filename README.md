@@ -14,9 +14,7 @@
 ```bash
 wget https://raw.githubusercontent.com/AnasAli30/fuel-contract-deploy-script/main/script.sh
 ```
-```bash
-sed -i -e 's/\r$//' script.sh
-```
+
 ```bash
 chmod +x script.sh && ./script.sh
 ```
